@@ -1,1 +1,1 @@
-Tasks for Testing classes by Hexlet
+Tasks for JS Testing classes by Hexlet
